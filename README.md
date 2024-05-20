@@ -11,5 +11,9 @@ PAMAP2: https://drive.google.com/drive/folders/1ECwHJetl8EPRkQSMD-rLuWimJ5kMp8qW
 
 The 32 TS Repository can be found from the following authors: https://www.cs.ucr.edu/~eamonn/Segmentation_ICDM.pdf 
 
+Statistics 
+![Historgram of TS Lenths](/assets/images/lengths.png)
+![Historgram of TS Cps](/assets/images/Cps.png)
+
 ## Running UQ-TSS
 We provide Jupyter Notebooks demonstrating UQ-TSS with PELT, FLOSS, CLaSP, and BOCPD. Please look in the folder "Jupyter Notebooks" 
